@@ -5,3 +5,4 @@ hwg544  "nw9iert2y70g" : "https://h5.hiwin.win?chn=aHdnNTQ0&adjevt_updated=svsll
 hwg545  "qa35uj698zcw" : "https://h5.hiwin.win?chn=aHdnNTQ1&adjevt_updated=18ij3m"
 hwg546  "eou0f563711c" : "https://h5.hiwin.win?chn=aHdnNTQ2&adjevt_updated=ruz2zj"
 hwg547  "v9t4jrtu79j4" : "https://h5.hiwin.win?chn=aHdnNTQ3&adjevt_updated=v8cd4d"
+hwg548  "gpx7sf9hf18g" : "https://h5.hiwin.win?chn=aHdnNTQ4&adjevt_updated=duyjqd"
