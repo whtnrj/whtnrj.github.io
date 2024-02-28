@@ -14,5 +14,5 @@ hwg562  "3a4qnbxlxlj4" : "https://h5.dzlttq.com?chn=aHdnNTYy&adjevt_updated=yeyr
 hwg577  "cf0hhk3wszy8" : "https://h5.ina777.asia?chn=aHdnNTc3&adjevt_updated=2d8ske"
 hwg585  "b4o5ok02rxts" : "https://h5.8278slots44.com?chn=aHdnNTg1&adjevt_updated=br98ac"
 hwg600  "bj7zshb3z3ls" : "https://h5.8278slots44.com?chn=aHdnNjAw"
-hwg621  "mlr3x71l629s" : {"id" : "https://h5.vv7575.com?chn=aHdnNjIx","ph" : "https://h5.8278slots44.com?chn=aHdnNjIx","my" : "https://h5.biwins365.com?chn=aHdnNjIx","ng" :       
-        "https://h5.ngbbet.win?chn=aHdnNjIx","mx" : "https://h5.vv7575.com?chn=aHdnNjIx","br" : "https://h5.vv7575.com?chn=aHdnNjIx"}
+hwg622  "z30f4lnaeccg" : {"id" : "https://h5.3178slots4.com?chn=aHdnNjIy","ph" : "https://h5.8278slots44.com?chn=aHdnNjIy","my" : "https://h5.biwins365.com?chn=aHdnNjIy","ng" :
+        "https://h5.ngbbet.win?chn=aHdnNjIy","mx" : "https://h5.vv7575.com?chn=aHdnNjIy","br" : "https://h5.vv7575.com?chn=aHdnNjIy"}
