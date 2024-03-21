@@ -17,3 +17,4 @@ hwg600  "bj7zshb3z3ls" : "https://h5.8278slots44.com?chn=aHdnNjAw"
 hwg622  "z30f4lnaeccg" : {"id" : "https://h5.3178slots4.com?chn=aHdnNjIy","ph" : "https://h5.8278slots44.com?chn=aHdnNjIy","my" : "https://h5.biwins365.com?chn=aHdnNjIy","ng" :
         "https://h5.ngbbet.win?chn=aHdnNjIy","mx" : "https://h5.vv7575.com?chn=aHdnNjIy","br" : "https://h5.vv7575.com?chn=aHdnNjIy"}
 hwg649  "w19rbdi0bev4" : {"id" : "https://h5.y89slots4.com?chn=aHdnNjQ5"}
+hwg723  "gacg490kkveo" : {"id" : "https://h5.9399014.com?chn=aHdnNzIz"}
